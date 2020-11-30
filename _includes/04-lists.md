@@ -2,3 +2,4 @@
 * :moneybag:
 * :car:
   * :bike:
+  * :star:
